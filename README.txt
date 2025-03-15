@@ -17,7 +17,7 @@ Funcionalidades
 Tecnologias Utilizadas
 - Linguagem: Python 3
 - Programação Orientada a Objetos (POO)
-- Módulo `datetime` para validação de datas
+- Módulo datetime para validação de datas
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
